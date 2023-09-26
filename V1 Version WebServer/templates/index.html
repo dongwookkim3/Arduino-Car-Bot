@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>조이스틱 버튼</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+    <body>
+        <div class="joystick">
+            <a href="/button/Run" class="button" id="Run_Button">Run</a>
+            <a href="/button/Left" class="button" id="Left_Button">Left</a>
+            <a href="/button/Back" class="button" id="Back_Button">Back</a>
+            <a href="/button/Right" class="button" id="Right_Button">Right</a>
+            <a href="/button/Stop" class="button" id="Stop_Button">Stop</a>
+        </div>
+        <script type="text/javascript" src="{{ url_for('static', filename='script.js') }}"></script>
+    </body>
+</html>
