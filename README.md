@@ -1,14 +1,10 @@
 ## 아두이노 자동차 만들기 프로젝트
 
 ### Version
-#### V1
-└─ V1.1 : 기본적인 모터를 IR센서를 이용하여 무선으로 조종하는 기능 <br>
 
-### 추후 개발 기능
-1. Arduino UNO를 WeMos D1 R1으로 바꿔서 UNO 확장보드를 계속 사용하면서 인터넷연결을 시킨다. <br>
-2. DB-(Firebase) 에 연결하여 완전 무선연결이 가능하도록 개발한다. <br>
-3. 웹서버를 개발하여 더욱 직관적이고 조작이 쉬운 UI를 개발한다. <br>
-4. Line Tracer기능을 넣어서 웹에서 Line Tracer기능이 구현되도록 만든다. <br>
+| Version | 추가 내용 | Blog | 완성도 |
+|---|---|---|---|
+| V1.1 | 기본적인 IR주행 | [Velog](https://velog.io/@dongwook_kim7/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EC%9E%90%EB%8F%99%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 100 |
 
 ### Commit Rule
 
