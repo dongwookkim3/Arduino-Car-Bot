@@ -4,7 +4,7 @@
 
 | Version | 추가 내용 | Blog | 완성도 |
 |---|---|---|---|
-| V1.1 | 기본적인 IR주행 | [Velog](https://velog.io/@dongwook_kim7/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EC%9E%90%EB%8F%99%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | 100 |
+| V1.1 | 기본적인 IR주행 | [Velog](https://velog.io/@dongwook_kim7/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8-%EC%9E%90%EB%8F%99%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | O |
 
 ### Commit Rule
 
